@@ -1,0 +1,914 @@
+[
+    {
+        "type": "Pink Rock Largo",
+        "slimeTypes": [
+            "pink",
+            "rock"
+        ],
+        "food": {
+            "type": null,
+            "hasCrop": 1,
+            "fav": null
+        }
+    },
+    {
+        "type": "Pink Tabby Largo",
+        "slimeTypes": [
+            "pink",
+            "tabby"
+        ],
+        "food": {
+            "type": null,
+            "hasCrop": 1,
+            "fav": null
+        }
+    },
+    {
+        "type": "Pink Phosphor Largo",
+        "slimeTypes": [
+            "phosphor",
+            "pink"
+        ],
+        "food": {
+            "type": null,
+            "hasCrop": 1,
+            "fav": null
+        }
+    },
+    {
+        "type": "Pink Rad Largo",
+        "slimeTypes": [
+            "pink",
+            "rad"
+        ],
+        "food": {
+            "type": null,
+            "hasCrop": 1,
+            "fav": null
+        }
+    },
+    {
+        "type": "Pink Boom Largo",
+        "slimeTypes": [
+            "boom",
+            "pink"
+        ],
+        "food": {
+            "type": null,
+            "hasCrop": 1,
+            "fav": null
+        }
+    },
+    {
+        "type": "Pink Honey Largo",
+        "slimeTypes": [
+            "honey",
+            "pink"
+        ],
+        "food": {
+            "type": null,
+            "hasCrop": 1,
+            "fav": null
+        }
+    },
+    {
+        "type": "Pink Tangle Largo",
+        "slimeTypes": [
+            "pink",
+            "tangle"
+        ],
+        "food": {
+            "type": null,
+            "hasCrop": 1,
+            "fav": null
+        }
+    },
+    {
+        "type": "Pink Crystal Largo",
+        "slimeTypes": [
+            "crystal",
+            "pink"
+        ],
+        "food": {
+            "type": null,
+            "hasCrop": 1,
+            "fav": null
+        }
+    },
+    {
+        "type": "Pink Quantum Largo",
+        "slimeTypes": [
+            "pink",
+            "quantum"
+        ],
+        "food": {
+            "type": null,
+            "hasCrop": 1,
+            "fav": null
+        }
+    },
+    {
+        "type": "Pink Dervish Largo",
+        "slimeTypes": [
+            "dervish",
+            "pink"
+        ],
+        "food": {
+            "type": null,
+            "hasCrop": 1,
+            "fav": null
+        }
+    },
+    {
+        "type": "Pink Mosaic Largo",
+        "slimeTypes": [
+            "mosaic",
+            "pink"
+        ],
+        "food": {
+            "type": null,
+            "hasCrop": 1,
+            "fav": null
+        }
+    },
+    {
+        "type": "Rock Tabby Largo",
+        "slimeTypes": [
+            "rock",
+            "tabby"
+        ],
+        "food": {
+            "type": [
+                "Meat",
+                "Veggie"
+            ],
+            "hasCrop": 1,
+            "fav": "Heart Beet"
+        }
+    },
+    {
+        "type": "Phosphor Rock Largo",
+        "slimeTypes": [
+            "phosphor",
+            "rock"
+        ],
+        "food": {
+            "type": [
+                "Fruit",
+                "Veggie"
+            ],
+            "hasCrop": 1,
+            "fav": "Heart Beet"
+        }
+    },
+    {
+        "type": "Rad Rock Largo",
+        "slimeTypes": [
+            "rad",
+            "rock"
+        ],
+        "food": {
+            "type": "Veggie",
+            "hasCrop": 1,
+            "fav": "Heart Beet"
+        }
+    },
+    {
+        "type": "Boom Rock Largo",
+        "slimeTypes": [
+            "boom",
+            "rock"
+        ],
+        "food": {
+            "type": [
+                "Meat",
+                "Veggie"
+            ],
+            "hasCrop": 1,
+            "fav": "Heart Beet"
+        }
+    },
+    {
+        "type": "Honey Rock Largo",
+        "slimeTypes": [
+            "honey",
+            "rock"
+        ],
+        "food": {
+            "type": [
+                "Fruit",
+                "Veggie"
+            ],
+            "hasCrop": 1,
+            "fav": "Heart Beet"
+        }
+    },
+    {
+        "type": "Tangle Rock Largo",
+        "slimeTypes": [
+            "rock",
+            "tangle"
+        ],
+        "food": {
+            "type": [
+                "Meat",
+                "Veggie"
+            ],
+            "hasCrop": 1,
+            "fav": "Heart Beet"
+        }
+    },
+    {
+        "type": "Rock Crystal Largo",
+        "slimeTypes": [
+            "crystal",
+            "rock"
+        ],
+        "food": {
+            "type": "Veggie",
+            "hasCrop": 1,
+            "fav": "Heart Beet"
+        }
+    },
+    {
+        "type": "Quantum Rock Largo",
+        "slimeTypes": [
+            "quantum",
+            "rock"
+        ],
+        "food": {
+            "type": [
+                "Fruit",
+                "Veggie"
+            ],
+            "hasCrop": 1,
+            "fav": "Heart Beet"
+        }
+    },
+    {
+        "type": "Rock Dervish Largo",
+        "slimeTypes": [
+            "dervish",
+            "rock"
+        ],
+        "food": {
+            "type": [
+                "Fruit",
+                "Veggie"
+            ],
+            "hasCrop": 1,
+            "fav": "Heart Beet"
+        }
+    },
+    {
+        "type": "Mosaic Rock Largo",
+        "slimeTypes": [
+            "mosaic",
+            "rock"
+        ],
+        "food": {
+            "type": "Veggie",
+            "hasCrop": 1,
+            "fav": "Heart Beet"
+        }
+    },
+    {
+        "type": "Phosphor Tabby Largo",
+        "slimeTypes": [
+            "phosphor",
+            "tabby"
+        ],
+        "food": {
+            "type": [
+                "Fruit",
+                "Meat"
+            ],
+            "hasCrop": 1,
+            "fav": "Stony Hen"
+        }
+    },
+    {
+        "type": "Rad Tabby Largo",
+        "slimeTypes": [
+            "rad",
+            "tabby"
+        ],
+        "food": {
+            "type": [
+                "Meat",
+                "Veggie"
+            ],
+            "hasCrop": 1,
+            "fav": "Stony Hen"
+        }
+    },
+    {
+        "type": "Boom Tabby Largo",
+        "slimeTypes": [
+            "boom",
+            "tabby"
+        ],
+        "food": {
+            "type": "Meat",
+            "hasCrop": 0,
+            "fav": "Stony Hen"
+        }
+    },
+    {
+        "type": "Honey Tabby Largo",
+        "slimeTypes": [
+            "honey",
+            "tabby"
+        ],
+        "food": {
+            "type": [
+                "Fruit",
+                "Meat"
+            ],
+            "hasCrop": 0,
+            "fav": "Stony Hen"
+        }
+    },
+    {
+        "type": "Tangle Tabby Largo",
+        "slimeTypes": [
+            "tabby",
+            "tangle"
+        ],
+        "food": {
+            "type": "Meat",
+            "hasCrop": 0,
+            "fav": "Stony Hen"
+        }
+    },
+    {
+        "type": "Tabby Crystal Largo",
+        "slimeTypes": [
+            "crystal",
+            "tabby"
+        ],
+        "food": {
+            "type": [
+                "Meat",
+                "Veggie"
+            ],
+            "hasCrop": 1,
+            "fav": "Stony Hen"
+        }
+    },
+    {
+        "type": "Quantum Tabby Largo",
+        "slimeTypes": [
+            "quantum",
+            "tabby"
+        ],
+        "food": {
+            "type": [
+                "Fruit",
+                "Meat"
+            ],
+            "hasCrop": 0,
+            "fav": "Stony Hen"
+        }
+    },
+    {
+        "type": "Tabby Dervish Largo",
+        "slimeTypes": [
+            "dervish",
+            "tabby"
+        ],
+        "food": {
+            "type": [
+                "Fruit",
+                "Meat"
+            ],
+            "hasCrop": 0,
+            "fav": "Stony Hen"
+        }
+    },
+    {
+        "type": "Mosaic Tabby Largo",
+        "slimeTypes": [
+            "mosaic",
+            "tabby"
+        ],
+        "food": {
+            "type": [
+                "Meat",
+                "Veggie"
+            ],
+            "hasCrop": 0,
+            "fav": "Stony Hen"
+        }
+    },
+    {
+        "type": "Phosphor Rad Largo",
+        "slimeTypes": [
+            "phosphor",
+            "rad"
+        ],
+        "food": {
+            "type": [
+                "Fruit",
+                "Veggie"
+            ],
+            "hasCrop": 1,
+            "fav": "Cuberry"
+        }
+    },
+    {
+        "type": "Boom Phosphor Largo",
+        "slimeTypes": [
+            "boom",
+            "phosphor"
+        ],
+        "food": {
+            "type": [
+                "Fruit",
+                "Meat"
+            ],
+            "hasCrop": 1,
+            "fav": "Cuberry"
+        }
+    },
+    {
+        "type": "Honey Phosphor Largo",
+        "slimeTypes": [
+            "honey",
+            "phosphor"
+        ],
+        "food": {
+            "type": "Fruit",
+            "hasCrop": 1,
+            "fav": "Cuberry"
+        }
+    },
+    {
+        "type": "Phosphor Tangle Largo",
+        "slimeTypes": [
+            "phosphor",
+            "tangle"
+        ],
+        "food": {
+            "type": [
+                "Fruit",
+                "Meat"
+            ],
+            "hasCrop": 1,
+            "fav": "Cuberry"
+        }
+    },
+    {
+        "type": "Phosphor Crystal Largo",
+        "slimeTypes": [
+            "crystal",
+            "phosphor"
+        ],
+        "food": {
+            "type": [
+                "Fruit",
+                "Veggie"
+            ],
+            "hasCrop": 1,
+            "fav": "Cuberry"
+        }
+    },
+    {
+        "type": "Quantum Phosphor Largo",
+        "slimeTypes": [
+            "phosphor",
+            "quantum"
+        ],
+        "food": {
+            "type": "Fruit",
+            "hasCrop": 1,
+            "fav": "Cuberry"
+        }
+    },
+    {
+        "type": "Phosphor Dervish Largo",
+        "slimeTypes": [
+            "dervish",
+            "phosphor"
+        ],
+        "food": {
+            "type": "Fruit",
+            "hasCrop": 1,
+            "fav": "Cuberry"
+        }
+    },
+    {
+        "type": "Phosphor Mosaic Largo",
+        "slimeTypes": [
+            "mosaic",
+            "phosphor"
+        ],
+        "food": {
+            "type": [
+                "Fruit",
+                "Veggie"
+            ],
+            "hasCrop": 1,
+            "fav": "Cuberry"
+        }
+    },
+    {
+        "type": "Boom Rad Largo",
+        "slimeTypes": [
+            "boom",
+            "rad"
+        ],
+        "food": {
+            "type": [
+                "Meat",
+                "Veggie"
+            ],
+            "hasCrop": 1,
+            "fav": "Oca Oca"
+        }
+    },
+    {
+        "type": "Honey Rad Largo",
+        "slimeTypes": [
+            "honey",
+            "rad"
+        ],
+        "food": {
+            "type": [
+                "Fruit",
+                "Veggie"
+            ],
+            "hasCrop": 1,
+            "fav": "Oca Oca"
+        }
+    },
+    {
+        "type": "Tangle Rad Largo",
+        "slimeTypes": [
+            "rad",
+            "tangle"
+        ],
+        "food": {
+            "type": [
+                "Meat",
+                "Veggie"
+            ],
+            "hasCrop": 1,
+            "fav": "Oca Oca"
+        }
+    },
+    {
+        "type": "Rad Crystal Largo",
+        "slimeTypes": [
+            "crystal",
+            "rad"
+        ],
+        "food": {
+            "type": "Veggie",
+            "hasCrop": 1,
+            "fav": "Oca Oca"
+        }
+    },
+    {
+        "type": "Quantum Rad Largo",
+        "slimeTypes": [
+            "quantum",
+            "rad"
+        ],
+        "food": {
+            "type": [
+                "Fruit",
+                "Veggie"
+            ],
+            "hasCrop": 1,
+            "fav": "Oca Oca"
+        }
+    },
+    {
+        "type": "Rad Dervish Largo",
+        "slimeTypes": [
+            "dervish",
+            "rad"
+        ],
+        "food": {
+            "type": [
+                "Fruit",
+                "Veggie"
+            ],
+            "hasCrop": 1,
+            "fav": "Oca Oca"
+        }
+    },
+    {
+        "type": "Mosaic Rad Largo",
+        "slimeTypes": [
+            "mosaic",
+            "rad"
+        ],
+        "food": {
+            "type": "Veggie",
+            "hasCrop": 1,
+            "fav": "Oca Oca"
+        }
+    },
+    {
+        "type": "Honey Boom Largo",
+        "slimeTypes": [
+            "boom",
+            "honey"
+        ],
+        "food": {
+            "type": [
+                "Fruit",
+                "Meat"
+            ],
+            "hasCrop": 0,
+            "fav": "Briar Hen"
+        }
+    },
+    {
+        "type": "Tangle Boom Largo",
+        "slimeTypes": [
+            "boom",
+            "tangle"
+        ],
+        "food": {
+            "type": "Meat",
+            "hasCrop": 0,
+            "fav": "Briar Hen"
+        }
+    },
+    {
+        "type": "Boom Crystal Largo",
+        "slimeTypes": [
+            "boom",
+            "crystal"
+        ],
+        "food": {
+            "type": [
+                "Meat",
+                "Veggie"
+            ],
+            "hasCrop": 1,
+            "fav": "Briar Hen"
+        }
+    },
+    {
+        "type": "Quantum Boom Largo",
+        "slimeTypes": [
+            "boom",
+            "quantum"
+        ],
+        "food": {
+            "type": [
+                "Fruit",
+                "Meat"
+            ],
+            "hasCrop": 0,
+            "fav": "Briar Hen"
+        }
+    },
+    {
+        "type": "Boom Dervish Largo",
+        "slimeTypes": [
+            "boom",
+            "dervish"
+        ],
+        "food": {
+            "type": [
+                "Fruit",
+                "Meat"
+            ],
+            "hasCrop": 0,
+            "fav": "Briar Hen"
+        }
+    },
+    {
+        "type": "Mosaic Boom Largo",
+        "slimeTypes": [
+            "boom",
+            "mosaic"
+        ],
+        "food": {
+            "type": [
+                "Meat",
+                "Veggie"
+            ],
+            "hasCrop": 0,
+            "fav": "Briar Hen"
+        }
+    },
+    {
+        "type": "Honey Tangle Largo",
+        "slimeTypes": [
+            "honey",
+            "tangle"
+        ],
+        "food": {
+            "type": [
+                "Fruit",
+                "Meat"
+            ],
+            "hasCrop": 0,
+            "fav": "Mint Mango"
+        }
+    },
+    {
+        "type": "Honey Crystal Largo",
+        "slimeTypes": [
+            "crystal",
+            "honey"
+        ],
+        "food": {
+            "type": [
+                "Fruit",
+                "Veggie"
+            ],
+            "hasCrop": 1,
+            "fav": "Mint Mango"
+        }
+    },
+    {
+        "type": "Quantum Honey Largo",
+        "slimeTypes": [
+            "honey",
+            "quantum"
+        ],
+        "food": {
+            "type": "Fruit",
+            "hasCrop": 0,
+            "fav": "Mint Mango"
+        }
+    },
+    {
+        "type": "Honey Dervish Largo",
+        "slimeTypes": [
+            "dervish",
+            "honey"
+        ],
+        "food": {
+            "type": "Fruit",
+            "hasCrop": 0,
+            "fav": "Mint Mango"
+        }
+    },
+    {
+        "type": "Honey Mosaic Largo",
+        "slimeTypes": [
+            "honey",
+            "mosaic"
+        ],
+        "food": {
+            "type": [
+                "Fruit",
+                "Veggie"
+            ],
+            "hasCrop": 0,
+            "fav": "Mint Mango"
+        }
+    },
+    {
+        "type": "Tangle Crystal Largo",
+        "slimeTypes": [
+            "crystal",
+            "tangle"
+        ],
+        "food": {
+            "type": [
+                "Meat",
+                "Veggie"
+            ],
+            "hasCrop": 1,
+            "fav": "Painted Hen"
+        }
+    },
+    {
+        "type": "Quantum Tangle Largo",
+        "slimeTypes": [
+            "quantum",
+            "tangle"
+        ],
+        "food": {
+            "type": [
+                "Fruit",
+                "Meat"
+            ],
+            "hasCrop": 0,
+            "fav": "Painted Hen"
+        }
+    },
+    {
+        "type": "Tangle Dervish Largo",
+        "slimeTypes": [
+            "dervish",
+            "tangle"
+        ],
+        "food": {
+            "type": [
+                "Fruit",
+                "Meat"
+            ],
+            "hasCrop": 0,
+            "fav": "Painted Hen"
+        }
+    },
+    {
+        "type": "Mosaic Tangle Largo",
+        "slimeTypes": [
+            "mosaic",
+            "tangle"
+        ],
+        "food": {
+            "type": [
+                "Meat",
+                "Veggie"
+            ],
+            "hasCrop": 0,
+            "fav": "Painted Hen"
+        }
+    },
+    {
+        "type": "Quantum Crystal Largo",
+        "slimeTypes": [
+            "crystal",
+            "quantum"
+        ],
+        "food": {
+            "type": [
+                "Fruit",
+                "Veggie"
+            ],
+            "hasCrop": 1,
+            "fav": "Odd Onion"
+        }
+    },
+    {
+        "type": "Crystal Dervish Largo",
+        "slimeTypes": [
+            "crystal",
+            "dervish"
+        ],
+        "food": {
+            "type": [
+                "Fruit",
+                "Veggie"
+            ],
+            "hasCrop": 1,
+            "fav": "Odd Onion"
+        }
+    },
+    {
+        "type": "Mosaic Crystal Largo",
+        "slimeTypes": [
+            "crystal",
+            "mosaic"
+        ],
+        "food": {
+            "type": "Veggie",
+            "hasCrop": 1,
+            "fav": "Odd Onion"
+        }
+    },
+    {
+        "type": "Quantum Dervish Largo",
+        "slimeTypes": [
+            "dervish",
+            "quantum"
+        ],
+        "food": {
+            "type": "Fruit",
+            "hasCrop": 0,
+            "fav": "Phase Lemon"
+        }
+    },
+    {
+        "type": "Quantum Mosaic Largo",
+        "slimeTypes": [
+            "mosaic",
+            "quantum"
+        ],
+        "food": {
+            "type": [
+                "Fruit",
+                "Veggie"
+            ],
+            "hasCrop": 0,
+            "fav": "Phase Lemon"
+        }
+    },
+    {
+        "type": "Mosaic Dervish Largo",
+        "slimeTypes": [
+            "dervish",
+            "mosaic"
+        ],
+        "food": {
+            "type": [
+                "Fruit",
+                "Veggie"
+            ],
+            "hasCrop": 0,
+            "fav": "Prickle Pear"
+        }
+    }
+]
