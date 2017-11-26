@@ -1,0 +1,167 @@
+[
+    {
+        "type": "Pink",
+        "food": {
+            "type": null,
+            "fav": null,
+            "hasCrop": true
+        },
+        "largoable": true,
+        "plot": "Ranch",
+        "color": "#E60073"
+    },
+    {
+        "type": "Rock",
+        "food": {
+            "type": "Veggie",
+            "fav": "Heart Beet",
+            "hasCrop": true
+        },
+        "largoable": true,
+        "plot": "Ranch",
+        "color": "#3E37CD"
+    },
+    {
+        "type": "Tabby",
+        "food": {
+            "type": "Meat",
+            "fav": "Stony Hen",
+            "hasCrop": false
+        },
+        "largoable": true,
+        "plot": "Ranch",
+        "color": "#7B7B7B"
+    },
+    {
+        "type": "Phosphor",
+        "food": {
+            "type": "Fruit",
+            "fav": "Cuberry",
+            "hasCrop": true
+        },
+        "largoable": true,
+        "plot": "Ranch",
+        "color": "#8D92F7"
+    },
+    {
+        "type": "Rad",
+        "food": {
+            "type": "Veggie",
+            "fav": "Oca Oca",
+            "hasCrop": true
+        },
+        "largoable": true,
+        "plot": "Ranch",
+        "color": "#52FF15"
+    },
+    {
+        "type": "Boom",
+        "food": {
+            "type": "Meat",
+            "fav": "Briar Hen",
+            "hasCrop": false
+        },
+        "largoable": true,
+        "plot": "Ranch",
+        "color": "#FF300D"
+    },
+    {
+        "type": "Honey",
+        "food": {
+            "type": "Fruit",
+            "fav": "Mint Mango",
+            "hasCrop": false
+        },
+        "largoable": true,
+        "plot": "Ranch",
+        "color": "#A75605"
+    },
+    {
+        "type": "Tangle",
+        "food": {
+            "type": "Meat",
+            "fav": "Painted Hen",
+            "hasCrop": false
+        },
+        "largoable": true,
+        "plot": "Ranch",
+        "color": "#06B270"
+    },
+    {
+        "type": "Crystal",
+        "food": {
+            "type": "Veggie",
+            "fav": "Odd Onion",
+            "hasCrop": true
+        },
+        "largoable": true,
+        "plot": "Ranch",
+        "color": "#7029FF"
+    },
+    {
+        "type": "Quantum",
+        "food": {
+            "type": "Fruit",
+            "fav": "Phase Lemon",
+            "hasCrop": false
+        },
+        "largoable": true,
+        "plot": "Ranch",
+        "color": "#DDCE05"
+    },
+    {
+        "type": "Dervish",
+        "food": {
+            "type": "Fruit",
+            "fav": "Prickle Pear",
+            "hasCrop": false
+        },
+        "largoable": true,
+        "plot": "Ranch",
+        "color": "#7910A8"
+    },
+    {
+        "type": "Mosaic",
+        "food": {
+            "type": "Veggie",
+            "fav": "Silver Parsnip",
+            "hasCrop": false
+        },
+        "largoable": true,
+        "plot": "Ranch",
+        "color": "#E100E6"
+    },
+    {
+        "type": "Hunter",
+        "food": {
+            "type": "Meat",
+            "fav": "Roostro",
+            "hasCrop": false
+        },
+        "largoable": false,
+        "plot": "Ranch",
+        "color": "#3B2821"
+    },
+    {
+        "type": "Puddle",
+        "food": {
+            "type": "Water",
+            "fav": null,
+            "hasCrop": null
+        },
+        "largoable": false,
+        "plot": "Pool",
+        "color": "#4FD1FF"
+    },
+    {
+        "type": "Fire",
+        "food": {
+            "type": "Ash",
+            "fav": null,
+            "hasCrop": null
+        },
+        "largoable": false,
+        "plot": "Incinerator",
+        "color": "#D75E13"
+    }
+]
